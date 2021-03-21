@@ -3,12 +3,25 @@
 	height: 100px;
 	background-color: purple;
 	border-radius: 50px; 
-
-	
+	margin: 5% 45% 0 45%;
 }
 #shape {
 	width: 50%;
 	height: 50%;
 	background-color: red;
+}
+button {
+	width: 150px;
+	height: 50px;
+}
+#colorbtn {
+	position: relative;
+	left: 43%;
+	margin: 5% 0 0 0;
+}
 
+#shapebtn {
+	position: relative;
+	left: 43%;
+	margin: 5% 0 0 0;
 }
