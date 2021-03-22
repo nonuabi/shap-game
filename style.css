@@ -1,16 +1,24 @@
+#main {
+	margin-top: 100px;
+}
 #circle {
-	width: 100px;
-	height: 100px;
-	background-color: purple;
-	border-radius: 50px; 
-	margin: 5% 45% 0 45%;
+	width: 200px;
+    height: 200px;
+    background-color: purple;
+    border-radius: 100px;
+    position: relative;
+    left: 40%;
 }
 #shape {
-	width: 50px;
-	height: 50px;
+	width: 100px;
+    height: 100px;
 	background-color: red;
-	position: relative;
-	justify-content: center;
+
+    position: relative;
+    left: 25%;
+    top: 25%;
+
+
 }
 button {
 	width: 150px;

@@ -9,7 +9,7 @@ function changeColor() {
 	}else if(count==2) {
 		circle.style.backgroundColor = "blue";
 	} else if (count == 3) {
-		circle.style.backgroundColor = "purple";
+		circle.style.backgroundColor = "cyan";
 	}else if(count == 4) {
 		count =0;
 	}
