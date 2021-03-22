@@ -6,9 +6,11 @@
 	margin: 5% 45% 0 45%;
 }
 #shape {
-	width: 50%;
-	height: 50%;
+	width: 50px;
+	height: 50px;
 	background-color: red;
+	position: relative;
+	justify-content: center;
 }
 button {
 	width: 150px;
