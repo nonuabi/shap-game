@@ -1,37 +1,34 @@
 #main {
-	margin-top: 100px;
+  margin-top: 100px;
 }
 #circle {
-	width: 200px;
-    height: 200px;
-    background-color: purple;
-    border-radius: 100px;
-    position: relative;
-    left: 40%;
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+  border-radius: 100px;
+  position: relative;
+  left: 41%;
 }
 #shape {
-	width: 100px;
-    height: 100px;
-	background-color: red;
-
-    position: relative;
-    left: 25%;
-    top: 25%;
-
-
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  left: 25%;
+  top: 25%;
 }
 button {
-	width: 150px;
-	height: 50px;
+  width: 150px;
+  height: 50px;
 }
 #colorbtn {
-	position: relative;
-	left: 43%;
-	margin: 5% 0 0 0;
+  position: relative;
+  left: 43%;
+  margin: 5% 0 0 0;
 }
 
 #shapebtn {
-	position: relative;
-	left: 43%;
-	margin: 5% 0 0 0;
+  position: relative;
+  left: 43%;
+  margin: 5% 0 0 0;
 }
